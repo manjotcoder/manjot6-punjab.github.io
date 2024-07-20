@@ -81,11 +81,11 @@ DATED:11/7/24,
 <h2>STAY HEALTY & POSITIVELY, I WISH YOU HAPPY BIRTHDAY ALL!</h2>
 <br>
 "Our last personality is Pancham Jai Singh Gill, a senior final year student of Mechanical Engineering. He is a great personality who started his lecture with full confidence. After that, he talked about our physical appearance and posture."
-
 <br>
 <br/>
 DATED:17/7/24
 <br>
+on 17th july we have our sixth day of an induction programme.we have class of mathematic with DR.sukhminder singh.he 
 <h1>IMPORTANT LINKS </h1>
 <br>
 GitHub profile:<a href="https://github.com/manjotcoder">click here for my GitHub account</a>
