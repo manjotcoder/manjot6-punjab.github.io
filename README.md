@@ -46,6 +46,8 @@ DATED:11/7/24,
    <br>
    4)Office Bearer
    <br>
+   Then, Dr. H.S. Rai, the Controller of Examination, spoke. His perspective on examinations was fascinating, viewing them as opportunities to shine.
+   <br>
    after all this Dr.Parminder singh has discuss with us about campus and also talk in detail about scholarships
    <br>
    <h1>3rd Day of an Induction Programme</h1>
