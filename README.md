@@ -14,5 +14,79 @@ After the Hukamnama in Gurudwara Sahib, all students went for lunch outside the 
 <br>
 AT THE END I ENLOY A DAY MAKE THIS MEMORIABLE!
 <img src="https://www.gndec.ac.in/gndec/gne_front.jpg" alt="image at gndec">
+<br>
+<h1>2nd day at Induction Programme</h1>
+DATED:11/7/24,
+<body>Lets know about whait is going in an induction program,
+  <br>
+  "In our induction program, our seniors, professors, and alumni guide us on how to work with our 100% potential and how we can improve our skills. On the second day of the induction program, our first speaker is Prof. Arvind Dhingra. He is a great personality with a very good nature. He is the chairman of the Technical Activities Committee and introduced us to the different committees of the college. He also mentioned that the best music in the world is our heartbeat and emphasized the importance of utilizing every second to develop ourselves.
+    lets get some other imformations;
+    <br>
+    1)ISTE-INDIAN SOCIETY FOR TECHNICAL EDUCATION
+    <br>
+    2)EESS
+    <br>
+    3)SAE
+    <br>
+    4)ISMRAE
+    <br>
+    5)AMPE
+    <br>
+    6)Data Science Club
+    <br>
+    7)English Club and many more clubs or schemes
+    <br>
+    
+   <h2>Different types of Membership</h2>
+   1)Member
+    <br>
+   2)Active Member
+   <br>
+   3)Executive Member
+   <br>
+   4)Office Bearer
+   <br>
+   after all this Dr.Parminder singh has discuss with us about campus and also talk in detail about scholarships
+   <br>
+   <h1>3rd Day of an Induction Programme</h1>
+   <br>
+   DATED:12/7/24
+   <br>
+   ON Third day of induction programme. our senoir intract us about canvas like how to use canva features .after this class then prof. neeraj kumar teach us mathematics. he also have an great knowleadge.He started derivative topic in classroom.
+   <br>
+   <h1>4th Day of An Induction Programme</h1>
+   <br>
+   DATED:15/7/2024
+   <br>
+   Today When we reach auditorium DR. Randhir singh intract us about how to login an github account. by which i am now here and write my daily schedule.
+   <br>
+"Dr. Pyare Lal Garg talked about college life and also gave us some basic importance of life. He shared some poetry lines with us. He said that nothing is impossible in life. Many problems are faced by students, but we have to deal with those problems and overcome them. If we learn to face problems, we will be successful in our lives."
+ <br>
+  "Dr. Sony Goyal was also a great personality. He started the lecture by wishing 'Happy Birthday' to all of us and mentioned that he would discuss later why he wished us a happy birthday. He shared a vast amount of knowledge, emphasizing giving 100% effort to any work we want to do. After that, he discussed the four years of BTech life with us as follows:"
+
+   <br>
+   1)LEARN
+   <br>
+   2)INQUIRE
+   <br>
+   3)FUTURE 
+   <br>
+   4)EXPLORE
+   <br>
+  He also say about why he call us happy birthday at the initial of lecture .he said that Everyday we have a new day & birth.
+  <br>
+  <br/>
+<h2>STAY HEALTY & POSITIVELY, I WISH YOU HAPPY BIRTHDAY ALL!</h2>
+<br>
+"Our last personality is Pancham Jai Singh Gill, a senior final year student of Mechanical Engineering. He is a great personality who started his lecture with full confidence. After that, he talked about our physical appearance and posture."
+
+<br>
+<br/>
+DATED:17/7/24
+<br>
+
+    
+    
+
 
 </body>
