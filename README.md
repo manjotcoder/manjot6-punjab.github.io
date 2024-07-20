@@ -1,4 +1,4 @@
-# manjot6-punjab.github.io
+# manjot6experienceatgndec.github.io
 Hey Everyone!
 I am Manjot Singh.I Completed my 12th from BCM Sen. Sec. School, Basant City, Ludhiana with 74% marks.Now I am Btech CSE students at Guru Nanak Dev Engineering College, Ludhiana.
 <u>
