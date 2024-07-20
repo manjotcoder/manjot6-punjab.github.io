@@ -3,9 +3,8 @@ Hey Everyone!
 I am Manjot Singh.I Completed my 12th from BCM Sen. Sec. School, Basant City, Ludhiana with 74% marks.Now I am Btech CSE students at Guru Nanak Dev Engineering College, Ludhiana.
 <u>
 <i><h1>My first day Experience at Guru Nanak Dev Engineering College,Ludhiana</h1><i/>
-<body>Hello Everyone!
-  Today i am talking about my first day at guru nanak dev engineering college.That day is most memoriable for me.On that Day. a day before that day college prof. message us on Whatsapp that Every students of IT and CSE should be come in college Gurudwara sahib at 9"o clock. when i go into Gurudwara sahib i see that kirtan is starts there and students were sitting peacefully in front of Guru Granth sahib ji. I Pray in front of guru granth sahib ji for "my new journey begins as a CSE student at Gndec.
-  After 1hr of kirtan started Anand Sahib path starts and after that ardas will be started in which all students and teachers pray for start a new session of btech. after the hukamnan from granth sahib that is:
+<body></body>
+  Hello everyone! Today, I am talking about my first day at Guru Nanak Dev Engineering College. That day is most memorable for me. The day before, college professors messaged us on WhatsApp that all students of IT and CSE should come to the college Gurudwara Sahib at 9 o'clock. When I arrived at Gurudwara Sahib, kirtan had already begun and students were sitting peacefully in front of Guru Granth Sahib Ji. I prayed in front of Guru Granth Sahib Ji for the start of my new journey as a CSE student at GNDEC. After an hour of kirtan, Anand Sahib path began followed by an ardas, where all students and teachers prayed to start a new session of BTech. After the hukamnama from Guru Granth Sahib Ji,
 
   <br>"jo nar dukh mai dukh nahee maanai"<br/>
  <br> "sukh sanayhu ar bhai nahee jaa kai kanchan maatee maanai. ||1|| rahaa-o"<br/>
