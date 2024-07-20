@@ -86,8 +86,11 @@ DATED:11/7/24,
 <br/>
 DATED:17/7/24
 <br>
-
-    
+<h1>IMPORTANT LINKS </h1>
+<br>
+GitHub profile:<a href="https://github.com/manjotcoder">click here for my GitHub account</a>
+<br>
+LinkedIn profile:<a href="https://www.linkedin.com/in/manjot-singh-582224319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">click here for my linkedin account</a>
     
 
 
