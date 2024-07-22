@@ -2,7 +2,7 @@
 Hey Everyone!
 I am Manjot Singh.I Completed my 12th from BCM Sen. Sec. School, Basant City, Ludhiana with 74% marks.Now I am Btech CSE students at Guru Nanak Dev Engineering College, Ludhiana.
 <br>
-    <h1>My First Experience at Guru Nanak Dev Engineering College</h1>
+    <h1> My First Experience at Guru Nanak Dev Engineering College </h1>
      <br>
     <body>
       Hello everyone! Today, I am talking about my first day at Guru Nanak Dev Engineering College. That day is most memorable for me. The day before, college professors messaged us on WhatsApp that all students of IT and CSE should come to the college Gurudwara Sahib at 9 o'clock. When I arrived at Gurudwara Sahib, kirtan had already begun and students were sitting peacefully in front of Guru Granth Sahib Ji. I prayed in front of Guru Granth Sahib Ji for the start of my new journey as a CSE student at GNDEC. After an hour of kirtan, Anand Sahib path began followed by an ardas, where all students and teachers prayed to start a new session of BTech. After the hukamnama from Guru Granth Sahib Ji,
@@ -85,10 +85,19 @@ DATED:11/7/24,
 <br/>
 DATED:17/7/24
 <br>
-on 17th july we have our sixth day of an induction programme.we have class of mathematic with DR.sukhminder singh.he 
+on July 17th, while attending your orientation program! It appears that Dr. Sukhminder Singh is an enthusiastic and committed educator. His amusing yet methodical approach to teaching mathematics is a terrific way to increase the effectiveness and enjoyment of studying.
 
+In mathematics, differentiation is crucial, particularly in areas like calculus. It's encouraging to learn that he offers practice problems for homework as well as in-class explanations of the concepts. With this method, you can apply what you've learned to strengthen your comprehension.
 <br>
-
+on 17th we have also a universal human values(UHV) taken by prof.Nisha. she teach us about value education.The holistic development of both individuals and societies depends on value education. we talk about happiness.Right understanding,FUllfillment in relationship & physical facilities which gives us happpiness.she also said that we can talk to ourself and see inside you.
+<br>
+DATED:18/7/2024
+<br>
+Prof. Nisha will be teaching UHV class again on July 18. She gave us a talk about the coexistence of the soul, or self, and the body that day.She discusses the functions of the body and soul. She also talked to us about physiochemical things as a source of inspiration.The next chapter, Understanding Harmony in Relationships, is about finding fulfillment in a relationship. We also discuss nine different categories of emotions.
+<br>
+In next class,wherein our seniors discuss college and college websites. They also discuss the marking system for academic exams.They tell us the mistakes they made in their first year and offer us advice for first-year students. to prevent us from doing those things
+<br>
+after break, we have to go 
 <h1>My Experience in excel free course provided by GNDEC staff </h1>
 <body>My name is Manjot Singh. Today, I want to share my experience with the Online Excel course offered by Great Learning Academy. This course has been very useful for me, and I gained a huge amount of knowledge from it. Microsoft Excel is used for organizing and calculating data in a spreadsheet. Through this course, I learned a lot of new things. Upon completion of the course, Great Learning Academy provides a valuable certificate.
 
