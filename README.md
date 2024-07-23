@@ -98,9 +98,23 @@ Prof. Nisha will be teaching UHV class again on July 18. She gave us a talk abou
 In next class,wherein our seniors discuss college and college websites. They also discuss the marking system for academic exams.They tell us the mistakes they made in their first year and offer us advice for first-year students. to prevent us from doing those things
 <br>
 After the break ,We must go to an auditorium where Dr. Harwinder Singh, the head of the NCC will speak with us . They talk about various wing types and the NCC Air Wing. Also, the students who joined NCC were given access to certain facilities. He added that anyone interested should fill out the registration form for the interview.
+<img src="https://ncc.gndec.ac.in/images/carousel-13.jpg" alt="nccimage">
 <br>
 Dr. Jasvir Singh Grewal , he talk about National Service Scheme (NSS) is a voluntary program under which young students from colleges, universities, and +2 level work towards creating a campus-community linkage. Popular as NSS, this program is conducted by the Ministry of Youth Affairs & Sports. The scheme majorly orients the students to community service while they are studying in educational institutions developing their personality and inner feelings towards community welfare.
 NSS helps the student to grow individually and also as a group. Volunteering for various tasks under NSS activities allows students to become confident, develop leadership skills, and learn about different people from different walks of life. 
+<img src="https://scontent.fluh1-1.fna.fbcdn.net/v/t1.18169-9/21766459_1587741241269745_3002519964079886357_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7b2446&_nc_ohc=DJdZaR_t86MQ7kNvgGlDKq7&_nc_ht=scontent.fluh1-1.fna&oh=00_AYA89-asuD6GxtA56ToHQ6EaGodnp-SJTU4M6kHhPgQmHg&oe=66C71C45" alt="nssimage">
+<br>
+DATED:19/7/24
+<br>
+Er.Kanwardeep Kalra
+She is an extremely self-assured, perceptive, and knowledgeable person.She imparted lots of knowledge to us.She taught us how to prepare for our interview and what kinds of mistakes students frequently make in interviews through a brief exercise. Only hard skills is not necessary for get job its also important to works on our soft skills i.e posture,communication, etc . Hard skills are necessary, but in order to get an acceptable job, you should first improve your soft skills.
+
+<br>
+DATED:22/7/24
+ Dr. SB Singh, He has a really pleasant disposition. He gave us self-understanding lessons.How to become comfortable with yourself. He instructed us to take a page out of your copy, grab a pen, and write our names and the source of our study materials.What percentage you received on your 12th grade exam, along with your residence and pin code. Your point of strength and weakness. He advised us to take a dream and write it down on your paper . Next, he got Pages from everyone . Through this project, all of the students have gained an understanding of our hobbies, weaknesses.
+
+
+
  
 <h1>My Experience in excel free course provided by GNDEC staff </h1>
 <body>My name is Manjot Singh. Today, I want to share my experience with the Online Excel course offered by Great Learning Academy. This course has been very useful for me, and I gained a huge amount of knowledge from it. Microsoft Excel is used for organizing and calculating data in a spreadsheet. Through this course, I learned a lot of new things. Upon completion of the course, Great Learning Academy provides a valuable certificate.
