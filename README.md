@@ -97,7 +97,11 @@ Prof. Nisha will be teaching UHV class again on July 18. She gave us a talk abou
 <br>
 In next class,wherein our seniors discuss college and college websites. They also discuss the marking system for academic exams.They tell us the mistakes they made in their first year and offer us advice for first-year students. to prevent us from doing those things
 <br>
-after break, we have to go 
+After the break ,We must go to an auditorium where Dr. Harwinder Singh, the head of the NCC will speak with us . They talk about various wing types and the NCC Air Wing. Also, the students who joined NCC were given access to certain facilities. He added that anyone interested should fill out the registration form for the interview.
+<br>
+Dr. Jasvir Singh Grewal , he talk about National Service Scheme (NSS) is a voluntary program under which young students from colleges, universities, and +2 level work towards creating a campus-community linkage. Popular as NSS, this program is conducted by the Ministry of Youth Affairs & Sports. The scheme majorly orients the students to community service while they are studying in educational institutions developing their personality and inner feelings towards community welfare.
+NSS helps the student to grow individually and also as a group. Volunteering for various tasks under NSS activities allows students to become confident, develop leadership skills, and learn about different people from different walks of life. 
+ 
 <h1>My Experience in excel free course provided by GNDEC staff </h1>
 <body>My name is Manjot Singh. Today, I want to share my experience with the Online Excel course offered by Great Learning Academy. This course has been very useful for me, and I gained a huge amount of knowledge from it. Microsoft Excel is used for organizing and calculating data in a spreadsheet. Through this course, I learned a lot of new things. Upon completion of the course, Great Learning Academy provides a valuable certificate.
 
