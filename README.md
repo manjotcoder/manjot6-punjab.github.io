@@ -82,7 +82,8 @@ DATED:11/7/24,
 <br>
 "Our last personality is Pancham Jai Singh Gill, a senior final year student of Mechanical Engineering. He is a great personality who started his lecture with full confidence. After that, he talked about our physical appearance and posture."
 <br>
-<br/>
+<h1>5th Day of An Induction programme</h1>
+<br>
 DATED:17/7/24
 <br>
 on July 17th, while attending your orientation program! It appears that Dr. Sukhminder Singh is an enthusiastic and committed educator. His amusing yet methodical approach to teaching mathematics is a terrific way to increase the effectiveness and enjoyment of studying.
@@ -90,6 +91,8 @@ on July 17th, while attending your orientation program! It appears that Dr. Sukh
 In mathematics, differentiation is crucial, particularly in areas like calculus. It's encouraging to learn that he offers practice problems for homework as well as in-class explanations of the concepts. With this method, you can apply what you've learned to strengthen your comprehension.
 <br>
 on 17th we have also a universal human values(UHV) taken by prof.Nisha. she teach us about value education.The holistic development of both individuals and societies depends on value education. we talk about happiness.Right understanding,FUllfillment in relationship & physical facilities which gives us happpiness.she also said that we can talk to ourself and see inside you.
+<br>
+<h1>6th Day of an Induction Programme</h1>
 <br>
 DATED:18/7/2024
 <br>
@@ -104,12 +107,15 @@ Dr. Jasvir Singh Grewal , he talk about National Service Scheme (NSS) is a volun
 NSS helps the student to grow individually and also as a group. Volunteering for various tasks under NSS activities allows students to become confident, develop leadership skills, and learn about different people from different walks of life. 
 <img src="https://scontent.fluh1-1.fna.fbcdn.net/v/t1.18169-9/21766459_1587741241269745_3002519964079886357_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7b2446&_nc_ohc=DJdZaR_t86MQ7kNvgGlDKq7&_nc_ht=scontent.fluh1-1.fna&oh=00_AYA89-asuD6GxtA56ToHQ6EaGodnp-SJTU4M6kHhPgQmHg&oe=66C71C45" alt="nssimage">
 <br>
+<h1>7th Day of an Induction programme </h1>
+<br>
 DATED:19/7/24
 <br>
 Er.Kanwardeep Kalra
 She is an extremely self-assured, perceptive, and knowledgeable person.She imparted lots of knowledge to us.She taught us how to prepare for our interview and what kinds of mistakes students frequently make in interviews through a brief exercise. Only hard skills is not necessary for get job its also important to works on our soft skills i.e posture,communication, etc . Hard skills are necessary, but in order to get an acceptable job, you should first improve your soft skills.
 
 <br>
+<h1>8th Day of an Induction programme</h1>
 DATED:22/7/24
  Dr. SB Singh, He has a really pleasant disposition. He gave us self-understanding lessons.How to become comfortable with yourself. He instructed us to take a page out of your copy, grab a pen, and write our names and the source of our study materials.What percentage you received on your 12th grade exam, along with your residence and pin code. Your point of strength and weakness. He advised us to take a dream and write it down on your paper . Next, he got Pages from everyone . Through this project, all of the students have gained an understanding of our hobbies, weaknesses.
 
